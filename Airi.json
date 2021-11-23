@@ -1,17 +1,62 @@
 [
 {
-"SkinName":"Phượng Cửu Thiên",
-"Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Airi/Airi1.jpg",
-"Link":"https://youtube.com"
-},
-{
-"SkinName":"Phượng Cửu Thiên 2",
-"Preview":"https://github.com/JaneAoV/Skin_Preview/raw/main/Airi/Airi2.jpg",
-"Link":"https://youtube.com/c/DNTurbo"
-},
-{
-"SkinName":"Phượng Cửu Thiên 2",
+"SkinName":"Thích Khách",
 "Preview":"",
-"Link":"https://youtube.com/c/DNTurbo"
-}
+"Link":""
+},
+{
+    "SkinName":"Ninja Xanh Lá",
+    "Preview":"",
+    "Link":""
+    },
+    {
+        "SkinName":"Quái Xế Công Nghệ",
+        "Preview":"",
+        "Link":""
+        },
+        {
+            "SkinName":"Cấm Vệ Nguyệt Tộc",
+            "Preview":"",
+            "Link":""
+            },
+            {
+                "SkinName":"Kiemono",
+                "Preview":"",
+                "Link":""
+                },
+                {
+                    "SkinName":"Bạch Kiemono",
+                    "Preview":"",
+                    "Link":""
+                    },
+                    {
+                        "SkinName":"Phó Kiếm Đạo",
+                        "Preview":"",
+                        "Link":""
+                        },
+                        {
+                            "SkinName":"Tiệc Bãi Biển",
+                            "Preview":"",
+                            "Link":""
+                            },
+                            {
+                                "SkinName":"Mỵ Hồ",
+                                "Preview":"",
+                                "Link":""
+                                },
+                                {
+                                    "SkinName":"Đặc Công Tử Diệp",
+                                    "Preview":"",
+                                    "Link":""
+                                    },
+                                    {
+                                        "SkinName":"Bích Hải Thánh Nữ",
+                                        "Preview":"",
+                                        "Link":""
+                                        },
+                                        {
+                                            "SkinName":"Lễ Hội Mùa Xuân",
+                                            "Preview":"",
+                                            "Link":""
+                                            }
 ]
